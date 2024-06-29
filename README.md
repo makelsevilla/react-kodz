@@ -1,2 +1,1 @@
-# React Projects  
- Practicing react
+# Practicing React
